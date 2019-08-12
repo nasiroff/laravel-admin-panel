@@ -3,7 +3,7 @@
 #### First: clone repostry
 
 ```
-
+https://github.com/nasiroff/laravel-admin-panel.git
 ```
 
 #### Second: create 'hospital' schema in MySQL 
@@ -21,4 +21,4 @@ php artisan db:seed
 ```
 
 # **THX**
-"# laravel-admin-panel" 
+ 
